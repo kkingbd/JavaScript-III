@@ -35,7 +35,6 @@ function GameObject(item){
 GameObject.prototype.destroy = function(){
   return `${this.name} was removed from the game.`;
 };
-//CharacterStats, Humanoid.
 /*
   === CharacterStats ===
   * healthPoints
